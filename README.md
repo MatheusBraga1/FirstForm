@@ -1,2 +1,2 @@
 # FirstForm
-Criação de um formulário básico em HTML &amp; CSS para praticar
+Criação de um formulário básico em HTML & CSS para praticar
